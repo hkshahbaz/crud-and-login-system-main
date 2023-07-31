@@ -1,0 +1,12 @@
+.center{
+	text-align: center;
+}
+.tbody{
+	background-color: white;
+	opacity: 0.9;
+	font-size: 24px;
+}
+.name{
+	float: right;
+	font-size: 17px;
+}
